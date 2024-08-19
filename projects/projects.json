@@ -1,0 +1,138 @@
+[
+  
+  {
+    "name": "MEDGEN",
+    "desc": "Full-Stack appliction which is used to search generic medicines with the help of elasticsearch algorithm",
+    "image": "",
+    "category": "mern",
+    "links": {
+      "view": "https://medgen-ha56.onrender.com/",
+      "code": "https://github.com/Deeksha-verma/Medgen"
+    }
+  },
+  {
+    "name": "EXAM-PILOT",
+    "desc": "Full-Stack application which is used to generate the test papers with the uploading of syllabus by the use of AI ",
+    "image": "",
+    "category": "mern",
+    "links": {
+      "view": "https://exam-pilot.onrender.com/login",
+      "code": "https://github.com/Deeksha-verma/Exam-Pilot"
+    }
+  },
+  {
+    "name": "TRAVISTATION",
+    "desc": "A full stack application which is used to connect all tarvellers to the users and integrate ai chatbots for customising iternaries",
+    "image": "",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Deeksha-verma/Travistation"
+    }
+  },
+  
+  {
+    "name": "FLYING-HOTEL",
+    "desc": "Full-Stack project based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
+    "image": "",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/Deeksha-verma/flying-hotel",
+      "code": "https://github.com/Deeksha-verma/flying-hotel"
+    }
+  },
+  
+  
+  {
+    "name": "PORTFOLIO",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Deeksha-verma/Portfolio"
+    }
+  },
+  
+  
+  {
+    "name": " COLLEGE CODE",
+    "desc": "application used to help college students to access notes,aptitude and e.t.c. based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
+    "image": "",
+    "category": "lamp",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Deeksha-verma/Collegecode"
+    }
+  },
+  {
+    "name": "Bootstrap Portfolio",
+    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
+    "image": "bootstrapportfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Bootstrap Template",
+    "desc": "Basic website template built using HTML and Bootstrap.",
+    "image": "bootstraptemplate",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+  
+  
+  {
+    "name": "SNAKES & LADDERS",
+    "desc": "It's a gaming application made thorugh python tkinter library.",
+    "image": "",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Deeksha-verma/snakesladders"
+    }
+  },
+  
+  
+  
+  
+  {
+    "name": "OLD WEBSITES",
+    "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
+    "image": "oldsites",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+  {
+    "name": "WPL LEAGUE",
+    "desc": "Basic web application i made through html,css and js for practising at the time of women premier league",
+    "image": "",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+  {
+    "name": "INDIAN TEMPLES",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+  
+]
